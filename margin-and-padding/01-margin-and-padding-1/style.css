@@ -8,16 +8,16 @@ body {
   border: 3px solid blue;
   /* CHANGE ME */
   box-sizing: border-box;
-  height: 90px;
-  padding: 35px;
-  margin: 15px;
+  /* height: 90px; */
+  padding: 32px;
+  margin: 12px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px;
 }
 
 .three {
@@ -26,8 +26,8 @@ body {
   width: 200px;
   /* CHANGE ME */
   box-sizing: border-box;
-  height: 90px;
-  padding: 35px;
+  /* height: 90px; */
+  padding: 32px;
   margin-left: 400px;
-  margin-top: 45px;
+  /* margin-top: 45px; */
 }
